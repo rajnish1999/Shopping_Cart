@@ -1,5 +1,5 @@
 # Shopping_Cart
-Shopping Cart is a E Commerce website. 
+Shopping Cart is an E-Commerce website. 
 
 ## Live Demo
 [Click here to open the live demo](https://shopping---cart.herokuapp.com/)
@@ -13,7 +13,7 @@ Shopping Cart is a E Commerce website.
 
 ![signUp](https://github.com/rajnish1999/Shopping_Cart/blob/master/public/images/website_pictures/signUp.png)
 
-3. **Login Page** : We can login here. We can login using Facebook and Github too.
+3. **Login Page** : We can login here. We can login using Google and Github too.
 
 ![login](https://github.com/rajnish1999/Shopping_Cart/blob/master/public/images/website_pictures/login.png)
 
@@ -25,12 +25,12 @@ Shopping Cart is a E Commerce website.
 
 ![cart](https://github.com/rajnish1999/Shopping_Cart/blob/master/public/images/website_pictures/cart.png)
 
-6. **Add product page** : This page for admin only, admin can add new products using this page.
+6. **Add product page** : This page is for admin only, admin can add new products using this page.
 
 ![add](https://github.com/rajnish1999/Shopping_Cart/blob/master/public/images/website_pictures/addProduct.png)
 
 
-7. **Delete product page** : This page for admin only, admin can delete products using this page.
+7. **Delete product page** : This page is for admin only, admin can delete products using this page.
 
 ![delete](https://github.com/rajnish1999/Shopping_Cart/blob/master/public/images/website_pictures/deleteProduct.png)
 
