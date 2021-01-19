@@ -4,7 +4,7 @@ Shopping Cart is a E Commerce website.
 ## Install Dependencies
 `npm install`
 
-###It has following pages:
+### It has following pages:
 1. **Homepage**: You can view all the products present in the stock at present.Along with the image of the product , price,manufacturer name and a small description about the product is also given.
 
 ![Homepage](https://github.com/rajnish1999/Shopping_Cart/blob/master/public/images/website_pictures/landingPage.png)
